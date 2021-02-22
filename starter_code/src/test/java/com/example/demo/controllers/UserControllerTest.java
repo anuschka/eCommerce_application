@@ -90,5 +90,5 @@ public class UserControllerTest {
         assertEquals("testPassword2", u.getPassword());
     }
 
-   
+
 }
